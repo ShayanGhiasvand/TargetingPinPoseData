@@ -50,7 +50,7 @@ Description of what each script in the repository does:
 ## Citations
 If you use this dataset or adapt the code in your academic work, please cite it as follows:
 @misc{your_citation_key,
-author = {Your Name},
+author = {Shayan Ghiasvand},
 title = {Your Dataset Name: A Description},
 year = {2024},
 publisher = {GitHub},
@@ -60,5 +60,5 @@ howpublished = {\url{https://github.com/YourUsername/YourRepositoryName}}
 
 ## Contact
 For any additional questions or requests, you can contact me at:
-- Email: youremail@example.com
-- Project Link: [https://github.com/YourUsername/YourRepositoryName](https://github.com/YourUsername/YourRepositoryName)
+- Email: shayan.gh@hotmail.com
+- Project Link: [https://github.com/ShayanGhiasvand/TargetingPinPoseData](https://github.com/ShayanGhiasvand/TargetingPinPoseData)
