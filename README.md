@@ -38,7 +38,7 @@ Description of what each script in the repository does:
 - `generate_real_data.py`: Collects real-world data using the Denso robotic setup.
 
 ## Authors
-- **Your Name** - *Initial work* - [YourGithubProfile](https://github.com/YourGithubProfile)
+- **Shayan Ghiasvand** - *Initial work* - [GitHub](https://github.com/ShayanGhiasvand)
 
 ## License
 
@@ -49,13 +49,13 @@ Description of what each script in the repository does:
 
 ## Citations
 If you use this dataset or adapt the code in your academic work, please cite it as follows:
-@misc{your_citation_key,
+@misc{TargetingPinPoseData,
 author = {Shayan Ghiasvand},
-title = {Your Dataset Name: A Description},
+title = {Dataset Name: A Description},
 year = {2024},
 publisher = {GitHub},
 journal = {GitHub repository},
-howpublished = {\url{https://github.com/YourUsername/YourRepositoryName}}
+howpublished = {\url{https://github.com/ShayanGhiasvand/TargetingPinPoseData}}
 }
 
 ## Contact
